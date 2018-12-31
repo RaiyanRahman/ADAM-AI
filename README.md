@@ -10,6 +10,14 @@ The maze also allows you, the Human Player, to try your hand at it.
 
 You can find out more on this Genetic Algorithm from [Code Bullet](https://github.com/Code-Bullet) and even follow the tutorials on his YouTube channel.
 
+## Features:
+1. The Human player may try their own hand at the maze game by pressing P.
+2. The population size can be changed.
+3. The mutation rate of each newer generation can be doubled or halved.
+4. The speed of the simulation may be tweaked to your desired speed.
+5. The number of extra moves that the AI can make after a certain number of generations can be changed.
+6. The number of generations after which the moves will increase may also be changed to train the AI further or less.
+
 <p align="center">
 <img src="https://i.imgur.com/zpuw4bf.png"/>
   </p>
